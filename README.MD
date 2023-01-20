@@ -6,10 +6,11 @@
 
 💡 &nbsp;Sou uma pessoa curiosa, apaixona por tecnologia que ama explorar e desenvolver novos conhecimentos.\
 🎓 &nbsp;Atualmente estudante do módulo de Backend na Trybe.\
-🌱 &nbsp;Estou em uma jornada para me contribuir em um .\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+🌱 &nbsp;Estou em uma jornada para  contribuir em um projeto como Desenvolvedor Fron-End .\
+✍️ &nbsp;Possuo experiência em Ui Design.\
+
+
+✉️ &nbsp;Entre em contato comigo através do meu email <a href='mailto:contato@paulodeassis.com'>contato@paulodeassis.com </a> ou do meu <a href='https://www.linkedin.com/in/paulo-de-assis/'>Linkedin</a>\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
