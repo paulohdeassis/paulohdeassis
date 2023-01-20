@@ -10,7 +10,7 @@
 ✍️ &nbsp;Possuo experiência em Ui Design.
 
 
-✉️ &nbsp;Entre em contato comigo através do meu email <a href='mailto:contato@paulodeassis.com'>contato@paulodeassis.com </a> ou do meu <a href='https://www.linkedin.com/in/paulo-de-assis/'>Linkedin</a>\
+✉️ &nbsp;Entre em contato comigo através do meu email <a href='mailto:contato@paulodeassis.com'>contato@paulodeassis.com </a> ou do meu <a href='https://www.linkedin.com/in/paulo-de-assis/'>Linkedin</a>
 
 
 
