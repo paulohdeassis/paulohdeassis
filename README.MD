@@ -7,7 +7,7 @@
 💡 &nbsp;Sou uma pessoa curiosa, apaixona por tecnologia que ama explorar e desenvolver novos conhecimentos.\
 🎓 &nbsp;Atualmente estudante do módulo de Backend na Trybe.\
 🌱 &nbsp;Estou em uma jornada para  contribuir em um projeto como Desenvolvedor Fron-End .\
-✍️ &nbsp;Possuo experiência em Ui Design.\
+✍️ &nbsp;Possuo experiência em Ui Design.
 
 
 ✉️ &nbsp;Entre em contato comigo através do meu email <a href='mailto:contato@paulodeassis.com'>contato@paulodeassis.com </a> ou do meu <a href='https://www.linkedin.com/in/paulo-de-assis/'>Linkedin</a>\
@@ -44,7 +44,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
--->
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -57,4 +57,4 @@
 <a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
 
-
+-->
