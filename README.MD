@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mim
 
-💡 &nbsp;Sou uma pessoa curiosa, apaixona por tecnologia que ama explorar e desenvolver novos conhecimentos.\
+💡 &nbsp;Sou uma pessoa curiosa, apaixonada por tecnologia que ama explorar e desenvolver novos conhecimentos.\
 🎓 &nbsp;Atualmente estudante do módulo de Backend na Trybe.\
-🌱 &nbsp;Estou em uma jornada para  contribuir em um projeto como Desenvolvedor Fron-End .\
+🌱 &nbsp;Estou em uma jornada para  contribuir em um projeto como Desenvolvedor Front-End .\
 ✍️ &nbsp;Possuo experiência em Ui Design.
 
 
